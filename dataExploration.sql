@@ -1,5 +1,5 @@
 /*
-In this project I used SQL to explore CovidDeaths dataset to use in the next Tableau project 
+In this project I used SQL to explore CovidDeaths dataset to create tables I need to use in future on a diffrent Tableau project 
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
